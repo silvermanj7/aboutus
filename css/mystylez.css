@@ -35,7 +35,7 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
-.lines{padding: 30px;margin-top: 20px;margin-bottom: 20px;}
+.lines{padding: 30px;margin-top: 20px;margin-bottom: 20px;border:none;}
 h2, h3{font-weight: bold;}
 .jing{padding: 30px;padding-bottom: 90px;}
 #bread{background-color: lightgray;}
