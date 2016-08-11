@@ -1,0 +1,26 @@
+{
+  "name": "silvermanj7",
+  "homepage": "https://github.com/silvermanj7/aboutus",
+  "description": "website for an awesome restaurant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "restaurant"
+  ],
+  "authors": [
+    "JakeS."
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
